@@ -1,0 +1,3 @@
+Let's make cpu_reset if module not unloaded in time.
+
+WWW: https://github.com/olevole/kwatchdog-kmod

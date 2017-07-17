@@ -1,0 +1,11 @@
+############################################################################
+
+Add kwatchdog_load="YES" to /boot/loader.conf to load the kernel module
+automatically.
+
+The default value for timeout is 60 with can be unsuitable in some cases.
+You can specify an alternate value by adding a line to /boot/loader.conf:
+
+  kwatchdog.count.critical=30
+
+############################################################################
