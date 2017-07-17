@@ -1,7 +1,7 @@
 # Created by: olevole
 # $FreeBSD: $
 
-PORTNAME=	kwatchdog-kmod
+PORTNAME=	kwatchdog
 PORTVERSION=	0.2
 DISTVERSIONPREFIX=	v
 CATEGORIES=	sysutils
